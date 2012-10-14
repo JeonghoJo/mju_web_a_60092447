@@ -1,0 +1,27 @@
+html{color:#000;
+background-color:#999;
+		padding:20px 0;
+		font: 12px/18px "맑은 고딕", "Malgun Gothic", "굴림", "Gulim", Verdan, Arial, Tahoma;
+}
+
+#wrap{width:950px; background-color:#FFF;}
+
+
+#top{width:950px; float:left; background-color:#000; display:block;}
+#top_left{width:300px; float:left;}
+
+#nav{float:right;text-align:right;display:inline; color:#FFF;}
+#nav ul { padding:0; list-style-type:none; display:inline;}
+#nav ul li {display:inline;}
+#nav ul li a:visited, a:link {color:#FFF;text-decoration:none;}
+#nav ul li a:hover, a:active {color:#F00;}
+
+
+#line{width:950px; height:20px; display:block; background-color:#FFFF80;}
+
+#main{width:950px; overflow:auto; padding:0; display:block;}
+#main_content{width:950px; overflow:auto; padding:0;}
+
+
+#profile_photo{width:620px; display:inline; float:left;}
+#profile_contents{width:310px; display:inline; float:right;}
